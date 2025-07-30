@@ -1,0 +1,10 @@
+{
+    "question": "Which sentence is correct?",
+    "options": [
+        "She don’t like apples.",
+        "She doesn’t likes apples.",
+        "She doesn’t like apples.",
+        "She don’t likes apples."
+    ],
+    "answer": "C"
+}

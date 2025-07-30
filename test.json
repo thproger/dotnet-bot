@@ -1,0 +1,222 @@
+[
+    {
+      "question": "Which sentence is correct?",
+      "options": [
+        "She don’t like apples.",
+        "She doesn’t likes apples.",
+        "She doesn’t like apples.",
+        "She don’t likes apples."
+      ],
+      "answer": "c"
+    },
+    {
+      "question": "Choose the correct form: 'I _____ to the gym every day.'",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": "a"
+    },
+    {
+      "question": "Which word is a conjunction?",
+      "options": [
+        "Quickly",
+        "And",
+        "Beautiful",
+        "Tall"
+      ],
+      "answer": "b"
+    },
+    {
+      "question": "Fill in the blank: 'She has been working here _____ 2010.'",
+      "options": [
+        "since",
+        "for",
+        "by",
+        "at"
+      ],
+      "answer": "a"
+    },
+    {
+      "question": "Which sentence is in passive voice?",
+      "options": [
+        "They built the house in 2010.",
+        "The house was built in 2010.",
+        "They are building the house.",
+        "They had built the house."
+      ],
+      "answer": "b"
+    },
+    {
+      "question": "Choose the correct tense: 'By next week, she _____ the project.'",
+      "options": [
+        "finishes",
+        "will finish",
+        "will have finished",
+        "finished"
+      ],
+      "answer": "c"
+    },
+    {
+      "question": "Which word is an adverb?",
+      "options": [
+        "Angry",
+        "Run",
+        "Slowly",
+        "Big"
+      ],
+      "answer": "c"
+    },
+    {
+      "question": "Identify the correct question tag: 'You’re coming to the party, _____?'",
+      "options": [
+        "isn’t it",
+        "aren’t you",
+        "won’t you",
+        "don’t you"
+      ],
+      "answer": "b"
+    },
+    {
+      "question": "Fill in the blank: 'Neither John _____ Mary was at the meeting.'",
+      "options": [
+        "nor",
+        "or",
+        "and",
+        "but"
+      ],
+      "answer": "a"
+    },
+    {
+      "question": "Which sentence uses the past perfect tense?",
+      "options": [
+        "She eats breakfast.",
+        "She has eaten breakfast.",
+        "She ate breakfast.",
+        "She had eaten breakfast."
+      ],
+      "answer": "d"
+    },
+    {
+      "question": "Choose the correct article: 'He is _____ honest man.'",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": "b"
+    },
+    {
+      "question": "What type of sentence is this: 'Please sit down.'?",
+      "options": [
+        "Declarative",
+        "Interrogative",
+        "Imperative",
+        "Exclamatory"
+      ],
+      "answer": "c"
+    },
+    {
+      "question": "Which is a preposition?",
+      "options": [
+        "Quick",
+        "Under",
+        "Running",
+        "Blue"
+      ],
+      "answer": "b"
+    },
+    {
+      "question": "Choose the correct plural form: 'Child'",
+      "options": [
+        "Childs",
+        "Children",
+        "Childes",
+        "Childrens"
+      ],
+      "answer": "b"
+    },
+    {
+      "question": "Identify the correct word order: 'Always / I / my homework / do'",
+      "options": [
+        "I always do my homework.",
+        "Always I do my homework.",
+        "I do always my homework.",
+        "I always my homework do."
+      ],
+      "answer": "a"
+    },
+    {
+      "question": "Choose the correct form: 'If I _____ you, I would apologize.'",
+      "options": [
+        "am",
+        "was",
+        "were",
+        "be"
+      ],
+      "answer": "c"
+    },
+    {
+      "question": "Which sentence is correct?",
+      "options": [
+        "Its a nice day.",
+        "It’s a nice day.",
+        "Its’ a nice day.",
+        "Its’s a nice day."
+      ],
+      "answer": "b"
+    },
+    {
+      "question": "What part of speech is the word 'happily'?",
+      "options": [
+        "Verb",
+        "Adjective",
+        "Adverb",
+        "Noun"
+      ],
+      "answer": "c"
+    },
+    {
+      "question": "Choose the correct word: 'There are _____ apples in the basket.'",
+      "options": [
+        "much",
+        "any",
+        "some",
+        "a"
+      ],
+      "answer": "c"
+    },
+    {
+      "question": "Which is a compound sentence?",
+      "options": [
+        "She sings.",
+        "She sings and he dances.",
+        "Because she sings, he listens.",
+        "Singing beautifully, she amazed the crowd."
+      ],
+      "answer": "b"
+    },
+    {
+      "question": "Choose the correct comparative: 'This book is _____ than that one.'",
+      "options": [
+        "good",
+        "more good",
+        "better",
+        "best"
+      ],
+      "answer": "c"
+    },
+    {
+      "question": "Fill in the blank: 'I prefer tea _____ coffee.'",
+      "options": [
+        "than",
+        "from",
+        "over",
+        "to"
+      ],
+      "answer": "d"
+    }
+  ]
